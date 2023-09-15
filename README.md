@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinand Nandakumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/M8GslMo7eYaLSjmSEmGJfyeTba-3LF4gkvcIRsV2de4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdC5k/ZXBvc2l0cGhvdG9z/LmNvbS8xMDM3MjM4/LzQzNjQvdi82MDAv/ZGVwb3NpdHBob3Rv/c180MzY0MTk4NS1z/dG9jay1pbGx1c3Ry/YXRpb24tY29tcHV0/ZXItcHJvZ3JhbW1l/ci13b3JraW5nLW9u/LWhpcy5qcGc">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandnandakumar&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandnandakumar" /> </p>
 
